@@ -7,6 +7,9 @@
 
 ![Higor GitHub stats](https://github-readme-stats.vercel.app/api?username=Higorcda&show_icons=true&theme=radical)
 
+</br>
+</br>
+
 ## Tecnologias
 
 <div style="display: inline-block;"></br>
