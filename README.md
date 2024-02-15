@@ -1,4 +1,4 @@
-## Higor Couto - Cursando Análise e Desenvolvimento de Sistemas
+## Higor
 
 </br>
 
